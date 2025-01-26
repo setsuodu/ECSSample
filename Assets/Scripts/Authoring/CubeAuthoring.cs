@@ -1,6 +1,7 @@
 using Unity.Entities;
 using UnityEngine;
 
+// Authoring + Component + Baker
 public class CubeAuthoring : MonoBehaviour
 {
     public int speed;
