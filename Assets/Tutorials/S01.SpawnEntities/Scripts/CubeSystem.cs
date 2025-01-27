@@ -4,6 +4,7 @@ using Unity.Transforms;
 using Unity.Mathematics;
 
 // System + Aspect
+//[BurstCompile]
 public partial struct CubeSystem : ISystem
 {
     //[BurstCompile]
